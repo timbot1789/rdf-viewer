@@ -15,6 +15,7 @@
     "typescript": "latest"
   },
   "dependencies": {
-    "rdflib": "^2.2.32"
+    "rdflib": "^2.2.32",
+    "two.js": "^0.8.10"
   }
 }
