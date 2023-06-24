@@ -2,9 +2,9 @@
 
 A simple RDF viewer written in Vue.
 Core Libraries:
-- (Nuxt 3)[https://nuxt.com/]
-- (two.js)[https://two.js.org/]
-- (rdflib)[https://github.com/linkeddata/rdflib.js/]
+- [Nuxt 3](https://nuxt.com/)
+- [two.js](https://two.js.org/)
+- [rdflib](https://github.com/linkeddata/rdflib.js/)
 
 ## Setup
 
