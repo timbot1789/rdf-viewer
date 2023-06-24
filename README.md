@@ -1,8 +1,14 @@
-# Nuxt 3 Minimal Starter
+# RDF Viewer
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A simple RDF viewer written in Vue.
+Core Libraries:
+- (Nuxt 3)[https://nuxt.com/]
+- (two.js)[https://two.js.org/]
+- (rdflib)[https://github.com/linkeddata/rdflib.js/]
 
 ## Setup
+
+You will need Node Version 16 or higher. NOTE: you will need to install Node version on the system. Nuxt currently does not interface correctly with NVM.
 
 Make sure to install the dependencies:
 
